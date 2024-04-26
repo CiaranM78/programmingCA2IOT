@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/programmingCA2IOT/CA2horrorgame/Content/thonnycode/shadowenemy.uasset",
+				"C:/programmingCA2IOT/CA2horrorgame/Content/thonnycode/lightdetect.uasset",
+				"C:/programmingCA2IOT/CA2horrorgame/Content/thonnycode/shadow_monster.uasset",
+				"C:/programmingCA2IOT/CA2horrorgame/Content/thonnycode/shadow_monster_Mat.uasset",
 				"C:/Users/Ciaran/Documents/programmingCA2IOT/CA2horrorgame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Ciaran/Documents/programmingCA2IOT/CA2horrorgame/Content/thonnycode/lightdetect.uasset",
 				"C:/Users/Ciaran/Documents/programmingCA2IOT/CA2horrorgame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZD/VEWAETIUDZFIAYD96A1V2H.uasset",
